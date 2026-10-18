@@ -12,4 +12,3 @@ Contact me at nizamet005@gmail.com.
 | PongBu: Menu Pong | [Privacy Policy](pongbupp.html) | [Terms of Use](pongbutnc.html) |
 | Punch Strength | [Privacy Policy](PunchStrengthPrivacyPolicy.html) | [Terms of Use](PunchStrengthTermsOfUse.html) |
 | Reflex Wrist Trainer | [Privacy Policy](ReflexPrivacyPolicy.html) | [Terms of Use](ReflexTermsNConditions.html) |
-| Vibratorium | Not available | [Terms of Use](Terms%20%26%20Conditions.html) |
